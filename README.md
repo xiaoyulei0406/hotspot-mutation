@@ -3,7 +3,7 @@
 ## Introduction
 Identification of hotspot mutations and corresponding wild type and mutated peptides. Somatic mutation data was downloaded from https://api.gdc.cancer.gov/data/1c8cfe5f-e52d-41ba-94da-f15ea1337efc.
 
-<p align="center"><img src="images/sample_distribution" alt="Performance" width="80%"></p>
+<p align="center"><img src="images/sample_distribution.png" alt="summary of samples in TCGA" width="80%"></p>
 
 #topmutations
 Hugo_Symbol: HUGO symbol for the gene (HUGO symbols are always in all caps).
